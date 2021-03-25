@@ -1,2 +1,2 @@
-# MediaEval-2015
-Binary classification MediaEval 2015 dataset including fake and not fake tweets.
+# MediaEval 2015
+The project is a binary classification of the [MediaEval 2015 Verifying Multimedia Use](http://www.multimediaeval.org/mediaeval2015/verifyingmultimediause/) task dataset. Given a tweet and the accompanying multimedia item (image or video) from an event that has the profile to be of interest in the international news, the task is to return a binary decision representing verification of whether the multimedia item reflects the reality of the event in the way purported by the tweet. This machine learning project has been carried out as part of coursework for Machine Learning Technologies at the University of Southampton.
